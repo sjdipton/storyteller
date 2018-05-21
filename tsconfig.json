@@ -1,0 +1,10 @@
+{
+    "include": [
+        "ts/**/*.ts"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "storyteller",
+        "watch": true
+    }
+}
